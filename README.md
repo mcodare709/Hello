@@ -1,0 +1,2 @@
+# Hello
+Settin up git
